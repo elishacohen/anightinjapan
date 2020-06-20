@@ -55,11 +55,15 @@ section {
     margin: 40px 0 0 0;
 }
 
+img {
+    max-width: 780px;
+}
+
 a {
     color: $black;
     text-decoration: none;
 }
-nav a, p a {
+nav a.selected, p a {
     border-bottom: 3px solid $red;
 }
 
@@ -95,9 +99,5 @@ div.post {
     p {
         max-width: 540px;
         margin-bottom: 40px;
-    }
-
-    img {
-        max-width: 780px;
     }
 }
