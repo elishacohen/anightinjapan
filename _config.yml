@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: elisha.cohen@wikimedia.de
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: nightinjapan
 github_username: ecohen-wmde
 theme: minima
